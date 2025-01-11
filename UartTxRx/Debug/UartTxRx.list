@@ -252,7 +252,7 @@ HAL_UART_Receive_IT(&huart1, UartBuf, sizeof(UartBuf));
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	 ret= memcmp(&UartBuf,"led on",6);
+	 ret= memcmp(&UartBuf,"led on",6); /****compare string and if match turn on led**/
  8000244:	2206      	movs	r2, #6
  8000246:	4914      	ldr	r1, [pc, #80]	; (8000298 <main+0xd8>)
  8000248:	480c      	ldr	r0, [pc, #48]	; (800027c <main+0xbc>)
@@ -282,7 +282,7 @@ HAL_UART_Receive_IT(&huart1, UartBuf, sizeof(UartBuf));
  800026e:	f44f 5100 	mov.w	r1, #8192	; 0x2000
  8000272:	480b      	ldr	r0, [pc, #44]	; (80002a0 <main+0xe0>)
  8000274:	f000 fd58 	bl	8000d28 <HAL_GPIO_WritePin>
-	 ret= memcmp(&UartBuf,"led on",6);
+	 ret= memcmp(&UartBuf,"led on",6); /****compare string and if match turn on led**/
  8000278:	e7e4      	b.n	8000244 <main+0x84>
  800027a:	bf00      	nop
  800027c:	2000026c 	.word	0x2000026c

@@ -143,7 +143,7 @@ HAL_UART_Receive_IT(&huart1, UartBuf, sizeof(UartBuf));
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	 ret= memcmp(&UartBuf,"led on",6);
+	 ret= memcmp(&UartBuf,"led on",6); /****compare string and if match turn on led**/
 
 	 if(ret==1)
 	 {
