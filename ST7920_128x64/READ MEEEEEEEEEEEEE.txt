@@ -1,0 +1,1 @@
+Extract the Drivers.7z and Debug.7z in the root folder(where they are located).
