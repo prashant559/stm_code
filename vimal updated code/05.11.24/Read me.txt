@@ -1,0 +1,3 @@
+>> Bad block management implemented
+>> ADC 10 sample avg cal. function implemented
+>> last address of nand flash store in sram implemented

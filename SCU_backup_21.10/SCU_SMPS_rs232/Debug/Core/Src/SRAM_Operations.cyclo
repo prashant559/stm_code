@@ -1,0 +1,5 @@
+../Core/Src/SRAM_Operations.c:96:9:SRAM_operation	4
+../Core/Src/SRAM_Operations.c:140:6:get_NAND_data	1
+../Core/Src/SRAM_Operations.c:149:9:get_NAND_address	1
+../Core/Src/SRAM_Operations.c:157:6:update_NAND_addr	1
+../Core/Src/SRAM_Operations.c:166:6:time_setter	8

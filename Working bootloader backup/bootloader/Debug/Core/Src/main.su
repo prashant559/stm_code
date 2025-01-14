@@ -1,0 +1,14 @@
+../Core/Src/main.c:91:5:main	8	static
+../Core/Src/main.c:155:6:SystemClock_Config	120	static
+../Core/Src/main.c:212:13:MX_UART5_Init	8	static
+../Core/Src/main.c:260:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:291:6:UART_InitAllHandlers	8	static
+../Core/Src/main.c:298:6:JumpToApplication	24	static,ignoring_inline_asm
+../Core/Src/main.c:387:6:BootloaderMain	296	static
+../Core/Src/main.c:504:6:WriteQuadWordToFlash	32	static
+../Core/Src/main.c:519:6:EraseFlash	40	static
+../Core/Src/main.c:542:6:IsBootloaderMode	8	static
+../Core/Src/main.c:553:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:565:6:circular_buffer_init	16	static
+../Core/Src/main.c:573:6:circular_buffer_write	16	static
+../Core/Src/main.c:595:6:Error_Handler	4	static,ignoring_inline_asm

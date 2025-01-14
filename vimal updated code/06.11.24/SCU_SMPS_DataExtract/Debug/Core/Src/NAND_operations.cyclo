@@ -1,0 +1,8 @@
+../Core/Src/NAND_operations.c:40:6:NAND_operation	5
+../Core/Src/NAND_operations.c:96:6:get_NAND_block_status	2
+../Core/Src/NAND_operations.c:113:6:set_NAND_block_status	2
+../Core/Src/NAND_operations.c:128:5:count_set_bits	2
+../Core/Src/NAND_operations.c:146:5:calculate_hamming_distance	2
+../Core/Src/NAND_operations.c:161:6:handle_bad_block	2
+../Core/Src/NAND_operations.c:194:6:get_Good_NAND_block	5
+../Core/Src/NAND_operations.c:215:6:get_NAND_stored_data	15

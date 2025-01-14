@@ -1,0 +1,1 @@
+this code having nand bad block

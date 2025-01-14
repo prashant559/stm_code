@@ -1,0 +1,14 @@
+../Core/Src/main.c:91:5:main	1
+../Core/Src/main.c:155:6:SystemClock_Config	4
+../Core/Src/main.c:212:13:MX_UART5_Init	5
+../Core/Src/main.c:260:13:MX_GPIO_Init	1
+../Core/Src/main.c:291:6:UART_InitAllHandlers	1
+../Core/Src/main.c:298:6:JumpToApplication	1
+../Core/Src/main.c:387:6:BootloaderMain	7
+../Core/Src/main.c:504:6:WriteQuadWordToFlash	3
+../Core/Src/main.c:519:6:EraseFlash	2
+../Core/Src/main.c:542:6:IsBootloaderMode	3
+../Core/Src/main.c:553:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:565:6:circular_buffer_init	1
+../Core/Src/main.c:573:6:circular_buffer_write	2
+../Core/Src/main.c:595:6:Error_Handler	1

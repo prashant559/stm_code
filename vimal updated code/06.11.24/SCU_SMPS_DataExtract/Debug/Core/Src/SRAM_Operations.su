@@ -1,0 +1,5 @@
+../Core/Src/SRAM_Operations.c:81:9:SRAM_operation	392	static
+../Core/Src/SRAM_Operations.c:158:6:get_NAND_data	8208	static
+../Core/Src/SRAM_Operations.c:172:9:get_NAND_address	8	static
+../Core/Src/SRAM_Operations.c:188:6:update_NAND_addr	8	static
+../Core/Src/SRAM_Operations.c:196:6:time_setter	16	static

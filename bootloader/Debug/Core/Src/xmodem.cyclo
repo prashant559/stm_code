@@ -1,0 +1,6 @@
+../Core/Src/xmodem.c:19:17:calculate_crc	4
+../Core/Src/xmodem.c:35:13:xmodem_receive_packet	4
+../Core/Src/xmodem.c:97:6:xmodem_receive	8
+../Core/Src/xmodem.c:173:5:circular_buffer_read_length	6
+../Core/Src/xmodem.c:206:5:circular_buffer_is_full	1
+../Core/Src/xmodem.c:210:5:circular_buffer_is_empty	3

@@ -1,0 +1,16 @@
+../Core/Src/main.c:128:5:main	1
+../Core/Src/main.c:215:6:SystemClock_Config	4
+../Core/Src/main.c:272:13:MX_SPI2_Init	2
+../Core/Src/main.c:320:13:MX_SPI3_Init	2
+../Core/Src/main.c:368:13:MX_SPI5_Init	2
+../Core/Src/main.c:416:13:MX_UART4_Init	5
+../Core/Src/main.c:464:13:MX_UART5_Init	5
+../Core/Src/main.c:512:13:MX_UART8_Init	5
+../Core/Src/main.c:560:13:MX_USART10_UART_Init	5
+../Core/Src/main.c:604:13:MX_FMC_Init	3
+../Core/Src/main.c:702:13:MX_GPIO_Init	1
+../Core/Src/main.c:865:6:Erase_SRAM	2
+../Core/Src/main.c:877:6:UART_InitAllHandlers	1
+../Core/Src/main.c:885:6:HAL_UART_RxCpltCallback	16
+../Core/Src/main.c:1058:6:HAL_GPIO_EXTI_Falling_Callback	1
+../Core/Src/main.c:1090:6:Error_Handler	1
